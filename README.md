@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=true&bg_color=001a33&color=00ff99&line=004d99&point=00ff99&area=true&area_color=004d99"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=false&bg_color=0d1117&color=00ff99&line=26a99a&point=00ff99&area=true&area_color=004d99&radius=15"/>
 
 </div>
 
