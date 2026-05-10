@@ -1,15 +1,15 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,20:1a0545,50:0e1f5e,80:1a0545,100:0d0221&height=230&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!%20%F0%9F%91%8B&fontSize=46&fontColor=00f5ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,20:764ba2,50:f093fb,80:764ba2,100:667eea&height=230&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code+%F0%9F%92%A1;Keep+pushing+commits+%E2%80%94+greatness+is+one+push+away+%F0%9F%8C%9F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=667eea&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code;Debugging+is+like+being+a+detective;Every+error+is+a+lesson"/>
 
 <br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=0d1117&label=👁️+PROFILE+VIEWS&labelColor=0f1f40"/>
+<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=667eea&label=👁️+PROFILE+VIEWS&labelColor=0f1f40"/>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MuhammadHussnain527&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff&sideLabels=c9d1d9&dates=555555&stroke=0d1117"/>
+<img src="https://streak-stats.demolab.com?user=MuhammadHussnain527&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=c9d1d9&dates=555555"/>
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=00f5ff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=667eea"/>
 
 </div>
 
@@ -90,13 +90,11 @@
 ---
 
 
-## 💡 *Line of the Life*
+## 💡 Line of the Life
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
-</a>
+> "That man is not for whom people stay awake at night and weep, rather that man is for whom people are happy, satisfied, and will not hear anything bad about him."
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
 
@@ -110,6 +108,6 @@
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-**Made with ❤️ by <font color="green">𝕄𝕦𝕙𝕒𝕞𝕞𝕒𝕕 Hussnain</font>**
+**Made with ❤️ by _Muhammad Hussnain_**
 
 </div>
