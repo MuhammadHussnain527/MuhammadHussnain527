@@ -51,7 +51,8 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=false&bg_color=0d1117&color=64ffda&line=00bfff&point=ffffff&area=true&area_color=0d4a5c&radius=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&bg_color=0d1117&color=00ff88&line=00bfff&point=ffffff&area=true&hide_border=false&border_color=00ff88" width="95%"/>
+
 </div>
 
 ---
