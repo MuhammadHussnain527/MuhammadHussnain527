@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001a33,20:004d99,50:00cc99,80:004d99,100:001a33&height=230&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=70&fontColor=00ff99&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65&descColor=00ff99"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d6d,20:2d7a99,50:26a99a,80:2d7a99,100:1a4d6d&height=230&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=50&fontColor=00ff99&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65&descColor=00ff99"/>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00ff99&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code;Debugging+is+like+being+a+detective;Every+error+is+a+lesson"/>
@@ -95,7 +95,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00ff99&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓲𝓼+𝓷𝓸𝓽+𝓯𝓸𝓻+𝔀𝓱𝓸𝓶+𝓹𝓮𝓸𝓹𝓵𝓮+𝓼𝓽𝓪𝔂+𝓪𝔀𝓪𝓴𝓮"/>
 </a>
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
