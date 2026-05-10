@@ -95,7 +95,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00ff99&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓲𝓼+𝓷𝓸𝓽+𝓯𝓸𝓻+𝔀𝓱𝓸𝓶+𝓹𝓮𝓸𝓹𝓵𝓮+𝓼𝓽𝓪𝔂+𝓪𝔀𝓪𝓴𝓮"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
 </a>
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
