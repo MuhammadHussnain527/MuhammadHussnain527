@@ -1,15 +1,15 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,20:764ba2,50:f093fb,80:764ba2,100:667eea&height=230&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,20:FB5607,50:FFBE0B,80:FB5607,100:FF006E&height=230&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65"/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=667eea&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code;Debugging+is+like+being+a+detective;Every+error+is+a+lesson"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=FF006E&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code;Debugging+is+like+being+a+detective;Every+error+is+a+lesson"/>
 
 <br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=667eea&label=👁️+PROFILE+VIEWS&labelColor=0f1f40"/>
+<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=FF006E&label=👁️+PROFILE+VIEWS&labelColor=0f1f40"/>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MuhammadHussnain527&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=f093fb&currStreakLabel=667eea&sideLabels=c9d1d9&dates=555555"/>
+<img src="https://streak-stats.demolab.com?user=MuhammadHussnain527&theme=tokyonight&hide_border=true&background=0d1117&ring=FF006E&fire=FFBE0B&currStreakLabel=FF006E&sideLabels=c9d1d9&dates=555555"/>
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=ffffff&area=true&area_color=667eea"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=FF006E&line=FFBE0B&point=FB5607&area=true&area_color=FF006E"/>
 
 </div>
 
@@ -90,11 +90,13 @@
 ---
 
 
-## 💡 Line of the Life
+## 💡 *Line of the Life*
 
 <div align="center">
 
-> "That man is not for whom people stay awake at night and weep, rather that man is for whom people are happy, satisfied, and will not hear anything bad about him."
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓲𝓼+𝓷𝓸𝓽+𝓯𝓸𝓻+𝔀𝓱𝓸𝓶+𝓹𝓮𝓸𝓹𝓵𝓮+𝓼𝓽𝓪𝔂+𝓪𝔀𝓪𝓴𝓮"/>
+</a>
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
 
