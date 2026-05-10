@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:0a2a3a,50:0d4a5c,80:0a2a3a,100:0d1117&height=240&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=48&fontColor=00ff99&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=65&descColor=64ffda"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ff99,70:00bfff,100:0d1117&height=280&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=62&descColor=f8fafc&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=0d4a5c&label=👁️+PROFILE+VIEWS&labelColor=0a1a2a"/>
+<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=00ff99&label=👁️+PROFILE+VIEWS&labelColor=0a1a2a"/>
 </div>
 
 ---
@@ -52,7 +52,6 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&bg_color=0d1117&color=00ff88&line=00bfff&point=ffffff&area=true&hide_border=false&border_color=00ff88" width="95%"/>
-
 </div>
 
 ---
@@ -82,17 +81,19 @@
 ## 💡 *Line of the Life*
 
 <div align="center">
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=500&color=00ff99&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓲𝓼+𝓷𝓸𝓽+𝓯𝓸𝓻+𝔀𝓱𝓸𝓶+𝓹𝓮𝓸𝓹𝓵𝓮+𝓼𝓽𝓪𝔀+𝓪𝔀𝓪𝓴𝓮"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
 </a>
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
+
 </div>
 
 ---
 
 <div align="center">
-
+  
 ### 💚 Show some love by starring my repositories! 💚
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
