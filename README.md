@@ -1,15 +1,15 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ff99,70:00bfff,100:0d1117&height=280&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlign=50&descAlignY=62&descColor=f8fafc&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00ff99,70:00bfff,100:0d1117&height=280&section=header&text=Hi%2C%20Muhammad%20Hussnain%20Here!&fontSize=52&fo[...]
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00ff99&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code;Debugging+is+like+being+a+detective;Every+error+is+a+lesson+in+disguise"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00ff99&center=true&vCenter=true&width=750&lines=First+solve+the+problem%2C+then+write+the+code;Deb[...]
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MuhammadHussnain527&style=for-the-badge&color=00ff99&label=👁️+PROFILE+VIEWS&labelColor=0a1a2a"/>
+<img src="https://komarev.com/ghpvc/?username=MrMuhammadHussnain&style=for-the-badge&color=00ff99&label=👁️+PROFILE+VIEWS&labelColor=0a1a2a"/>
 </div>
 
 ---
@@ -27,15 +27,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadHussnain527&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrMuhammadHussnain&theme=tokyonight" width="100%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhammadHussnain527&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrMuhammadHussnain&theme=tokyonight" width="32%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhammadHussnain527&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrMuhammadHussnain&theme=tokyonight" width="32%"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhammadHussnain527&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrMuhammadHussnain&theme=tokyonight" width="32%"/>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 ## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=MuhammadHussnain527&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff99&fire=00bfff&currStreakLabel=00ff99&sideLabels=64ffda&dates=8892b0"/>
+<img src="https://streak-stats.demolab.com?user=MrMuhammadHussnain&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff99&fire=00bfff&currStreakLabel=00ff99&sideLabels=64ffda&dates=8892b0"/>
 </div>
 
 ---
@@ -51,7 +51,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadHussnain527&bg_color=0d1117&color=00ff88&line=00bfff&point=ffffff&area=true&hide_border=false&border_color=00ff88" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrMuhammadHussnain&bg_color=0d1117&color=00ff88&line=00bfff&point=ffffff&area=true&hide_border=false&border_color=00ff88" widt[...]
 </div>
 
 ---
@@ -59,7 +59,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MuhammadHussnain527&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MrMuhammadHussnain&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
 </div>
 
 ---
@@ -83,7 +83,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬𝓪𝓷+𝓱𝓪𝓿𝓮+𝓷𝓸𝓽𝓱𝓲𝓷𝓰+𝓫𝓾𝓽+𝔀𝓱𝓪𝓽+𝓱𝓮+𝓼𝓽𝓻𝓲𝓿𝓮𝓼+𝓯𝓸𝓻%3B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=1500&lines=𝓣𝓱𝓪𝓽+𝓶𝓪𝓷+𝓬[...]
 </a>
 
 **— Surah An-Najm Ayat 39 (53:39 Quran)**
